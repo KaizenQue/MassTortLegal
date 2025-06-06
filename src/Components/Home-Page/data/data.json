@@ -1,0 +1,69 @@
+{ 
+  "Services": [
+    {
+      "icon": "img/Free Legal Case Evaluation.png",
+      "name": "Free Legal Case Evaluation",
+      "text": "We help you understand if you qualify for a lawsuit, with no cost, no obligation, and no pressure."
+    },
+    {
+      "icon": "img/Attorney Matchmaking.png",
+      "name": "Attorney Matchmaking",
+      "text": "Based on your situation, we connect you with trusted mass tort attorneys who have experience in your specific case type."
+    },
+    {
+      "icon": "img/Case Preparation Guidance.png",
+      "name": "Case Preparation Guidance",
+      "text": "We help you gather essential case information and make the legal process easy to understand."
+    },
+    {
+      "icon": "img/Ongoing Claim Support.png",
+      "name": "Ongoing Claim Support",
+      "text": "If your case moves forward, your assigned legal team keeps you informed every step of the way, while you focus on healing."
+    }
+  ],
+  "Services": [
+    {
+      "icon": "img/Free Legal Case Evaluation.png",
+      "name": "Free Legal Case Evaluation",
+      "text": "We help you understand if you qualify for a lawsuit, with no cost, no obligation, and no pressure."
+    },
+    {
+      "icon": "img/Attorney Matchmaking.png",
+      "name": "Attorney Matchmaking",
+      "text": "Based on your situation, we connect you with trusted mass tort attorneys who have experience in your specific case type."
+    },
+    {
+      "icon": "img/Case Preparation Guidance.png",
+      "name": "Case Preparation Guidance",
+      "text": "We help you gather essential case information and make the legal process easy to understand."
+    },
+    {
+      "icon": "img/Ongoing Claim Support.png",
+      "name": "Ongoing Claim Support",
+      "text": "If your case moves forward, your assigned legal team keeps you informed every step of the way, while you focus on healing."
+    }
+  ],
+  
+  
+  "Contact": {
+    "phone": "(888) 202-1350",
+    "email": "info@connect2attorney.com"
+  },
+  "Features": [
+    {
+      "icon": "img/Administrator Male (1).png",
+      "title": "Matched with Mass Tort Experts",
+      "text": "We connect you with attorneys experienced in your specific case type."
+    },
+    {
+      "icon": "img/Secured Package.png",
+      "title": "No Upfront Fees",
+      "text": "You pay nothing unless your case results in compensation."
+    },
+    {
+      "icon": "img/No Hidden Fees.png",
+      "title": "100% Confidential & Safe",
+      "text": "Your information stays secure — no pressure, no spam."
+    }
+  ]
+}
